@@ -1,0 +1,8 @@
+diff a/panthers.yaml b/panthers.yaml	(rejected hunks)
+@@ -6,3 +6,4 @@
+ - Violet
+ - Stella
+\ No newline at end of file
++- Anthony
+ - Freddie
+\ No newline at end of file
